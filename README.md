@@ -3,6 +3,15 @@
 ## ACTUALIZAR NPM
     npm install -g npm@latest
 
+## AUDITORIAS
+    // verificar si existen vulnerabilidades
+    // en las dependencias
+    npm audit
+
+    // arreglar las vulnerabilidades existentes
+    npm audit fix
+
+
 ## INSTALAR DEPENDENCIAS GLOBALES
     npm install --general <packpage>
     npm i -g <packpage>
