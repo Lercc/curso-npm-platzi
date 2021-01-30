@@ -18,5 +18,13 @@
   },
   "devDependencies": {
     "date-fns": "^2.16.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lercc/curso-npm-platzi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lercc/curso-npm-platzi/issues"
+  },
+  "homepage": "https://github.com/Lercc/curso-npm-platzi#readme"
 }
